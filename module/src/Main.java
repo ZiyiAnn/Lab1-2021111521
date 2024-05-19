@@ -222,7 +222,7 @@ public class Main {
                         System.out.println("执行时间: " + (duration7 / 1_000_000.0) + " 毫秒");
                         break;
                     case 8:
-                        System.out.println("change git!");
+                        System.out.println("change git!!");
                         return;
                     default:
                         break;
