@@ -223,6 +223,7 @@ public class Main {
                         break;
                     case 8:
                         System.out.println("change git!!");
+                        System.out.println("change B2!!");
                         return;
                     default:
                         break;
